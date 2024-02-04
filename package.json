@@ -1,0 +1,27 @@
+{
+  "name": "solid_ts",
+  "version": "1.0.0",
+  "description": "Solid principles with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarolopes2021/solid_ts.git"
+  },
+  "keywords": [
+    "Solid",
+    "TypeScript",
+    "Principles\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~p"
+  ],
+  "author": "Álvaro Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarolopes2021/solid_ts/issues"
+  },
+  "homepage": "https://github.com/alvarolopes2021/solid_ts#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12"
+  }
+}
